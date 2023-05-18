@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SC-200\: Introduction to Microsoft 365 Threat Protection
+title: SC-200 - Introduction to Microsoft 365 Threat Protection
 ---
 
 # Introduction to Microsfot 365 Threat Protection
